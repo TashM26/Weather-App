@@ -10,7 +10,8 @@ The Weather app provides a useful tool for those who want to be aware of the wea
 
 # Screens
 <div align = "center">
-  <img src = "https://github.com/TashM26/Weather-App/assets/137183001/dece29b4-849b-4a4f-b583-6c160ee3987f" width = "300">
+  <img src = "https://github.com/TashM26/Weather-App/assets/137183001/880577bf-eefb-44fe-b090-1ffdc9be0897" width = "300">
+  <img src = "https://github.com/TashM26/Weather-App/assets/137183001/86f8545d-96b6-4784-8f6c-62ea593c617d" width = "300">
 </div>
 
 
