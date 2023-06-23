@@ -14,3 +14,17 @@ The Weather app provides a useful tool for those who want to be aware of the wea
 </div>
 
 
+# Reach me
+<div>
+    <a href="mailto:tashdevteam@gmail.com">
+      <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width = "18" height = "14" />
+      <span>Contact Me</span>
+    </a>
+</div>
+
+<div>
+    <a href="https://www.instagram.com/m26_tash">
+      <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width = "18" height = "16"/>
+      <span>Follow Me</span>
+    </a>
+</div>
